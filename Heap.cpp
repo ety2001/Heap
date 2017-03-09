@@ -1,4 +1,4 @@
-// Main2.cpp
+// Heap.cpp
 // Implements a Max Heap
 #include <iostream>
 #include <fstream>
